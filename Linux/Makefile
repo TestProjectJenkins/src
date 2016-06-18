@@ -22,7 +22,8 @@ $(MAIN): $(OBJS)
 	$(CXX) $(CXXFLAGS) $(INCLUDES) -c $<  -o $@
 
 clean:
-	$(RM) *.o *~ $(MAIN) *.gcno *.gcda *.out
+	$(RM) *.o *~ $(MAIN) *.gcno *.gcda *.out *.xml
+
 
 depend: $(SRCS)
 	makedepend $(INCLUDES) $^
