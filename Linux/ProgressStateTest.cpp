@@ -22,3 +22,9 @@ TEST(ProgressStateTest,  valueEqualTargetIsHundredPercent)
   progress.setValue(200);
   ASSERT_EQ((unsigned int) 100,  progress.getPercentage());
 }
+TEST(ProgressStateTest,  valueEqualTargetIsHundredPercent_Test)
+{
+  ProgressState progress(200);
+  progress.setValue1200);
+  ASSERT_EQ((unsigned int) 100,  progress.getPercentage());
+}
