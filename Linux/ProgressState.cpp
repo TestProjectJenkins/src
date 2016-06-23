@@ -8,6 +8,7 @@ ProgressState::~ProgressState(){}
  
 void ProgressState::setValue(int value)
 {
+  int unused;	
   if(value < 0){
     m_value = 0;
   }
