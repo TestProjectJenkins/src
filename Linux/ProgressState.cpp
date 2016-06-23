@@ -2,7 +2,9 @@
  
 ProgressState::ProgressState(unsigned int target)
  : m_value(0), m_target(target)
-{}
+{
+	int *a = new int[100];
+}
  
 ProgressState::~ProgressState(){}
  
