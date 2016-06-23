@@ -6,8 +6,8 @@ namespace BankAccountNS
     /// Bank Account demo class. 
     /// </summary> 
     /// 
-  
-    
+
+
     public class BankAccount
     {
 

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2012 for Windows Desktop
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank.csproj", "{60085A98-E9AB-4D1D-9707-2F11C53F23D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank.csproj", "{9492FF6D-531F-459C-8F6E-78FE4F0BD43E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "..\BankTest\BankTest.csproj", "{A13DEE82-C2AA-40E2-9FCE-0C282562F398}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "..\BankTest\BankTest.csproj", "{1EFB2160-948C-4550-92BB-41B9FB72680C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,14 +11,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{60085A98-E9AB-4D1D-9707-2F11C53F23D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60085A98-E9AB-4D1D-9707-2F11C53F23D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60085A98-E9AB-4D1D-9707-2F11C53F23D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60085A98-E9AB-4D1D-9707-2F11C53F23D3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A13DEE82-C2AA-40E2-9FCE-0C282562F398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A13DEE82-C2AA-40E2-9FCE-0C282562F398}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A13DEE82-C2AA-40E2-9FCE-0C282562F398}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A13DEE82-C2AA-40E2-9FCE-0C282562F398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9492FF6D-531F-459C-8F6E-78FE4F0BD43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9492FF6D-531F-459C-8F6E-78FE4F0BD43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9492FF6D-531F-459C-8F6E-78FE4F0BD43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9492FF6D-531F-459C-8F6E-78FE4F0BD43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFB2160-948C-4550-92BB-41B9FB72680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFB2160-948C-4550-92BB-41B9FB72680C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFB2160-948C-4550-92BB-41B9FB72680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFB2160-948C-4550-92BB-41B9FB72680C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

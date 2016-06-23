@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A13DEE82-C2AA-40E2-9FCE-0C282562F398}</ProjectGuid>
+    <ProjectGuid>{1EFB2160-948C-4550-92BB-41B9FB72680C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BankTest</RootNamespace>
@@ -50,12 +50,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="BankAccountTests.cs" />
+    <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Bank\Bank.csproj">
-      <Project>{60085a98-e9ab-4d1d-9707-2f11c53f23d3}</Project>
+      <Project>{9492ff6d-531f-459c-8f6e-78fe4f0bd43e}</Project>
       <Name>Bank</Name>
     </ProjectReference>
   </ItemGroup>
